@@ -2,7 +2,7 @@
 export const storeProducts =[
  {
   id:1,
-  title:"Best Kitchen Utensil Set – 16 Silicone Cooking Utensils.",
+  title:"Best Kitchen Utensil Set – 16 Silicone Cooking.",
   img:"img/kitchen-1.jpg",
   price:20.99,
   company:"Pricepuls",
@@ -70,7 +70,7 @@ export const storeProducts =[
  },
  {
   id:7,
-  title:"Westmark Potato/Apple Grater, 9.5 Inch, Stainless Steel",
+  title:"Westmark Potato/Apple Grater, 9.5 Inch.",
   img:"img/kitchen-7.jpg",
   price:12.57,
   company:"Pricepuls",
