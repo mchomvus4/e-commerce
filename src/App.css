@@ -27,3 +27,6 @@ body{
   width: 3rem;
   color: var(--mainYellow)!important;
 }
+.fa-cart-plus{
+  color: #fff;
+}
