@@ -22,7 +22,7 @@ function App() {
         <Route  component ={Default}/>
       </Switch>
       <Modal/>
-      <Footer copy="2021" developer="Developed by Samwel Mchomvu From NOTTEC Lab"/>
+      <Footer copy="2021" developer="Developed by Samwel Mchomvu From NOTTECH Lab"/>
     </React.Fragment>
   );
 }
