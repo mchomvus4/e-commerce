@@ -48,3 +48,11 @@ body{
   font-size: 1.2rem;
   color: var(--mainYellow)!important;
 }
+.footer{
+ font-family: 'Akaya Telivigala', cursive;
+ letter-spacing: 0.3rem;
+ text-transform: capitalize;
+ background: var(--mainBlue);
+ padding: 2.5rem;
+ color: var(--mainWhite);
+}
